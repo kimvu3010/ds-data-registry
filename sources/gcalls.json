@@ -1,0 +1,9 @@
+{
+    "id": "GCALLS",
+    "name": "Gcalls call log",
+    "categories": ["CDR"],
+    "organization": "GCALLS",
+    "iconUrl": "https://spaces.gcalls.co/statics/icon-gcalls-gds.png",
+    "sourceUrl": "https://gcalls.co",
+    "dataVisibility": ["PRIVATE"]
+  }
